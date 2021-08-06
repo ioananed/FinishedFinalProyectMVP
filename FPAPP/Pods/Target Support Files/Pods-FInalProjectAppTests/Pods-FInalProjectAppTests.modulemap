@@ -1,0 +1,6 @@
+framework module Pods_FInalProjectAppTests {
+  umbrella header "Pods-FInalProjectAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
